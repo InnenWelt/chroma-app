@@ -123,7 +123,7 @@ const App: React.FC = () => {
         <div className="max-w-7xl mx-auto px-8 h-24 flex items-center justify-between">
           <div className="flex items-center gap-6 cursor-pointer group" onClick={reset}>
             <img 
-              src="logo.png" 
+              src="https://ibb.co/ymPPYtgP" 
               alt="CHROMA Logo" 
               className="h-12 w-12 object-contain rounded-xl shadow-lg group-hover:scale-110 transition-transform duration-500 ease-out"
             />
