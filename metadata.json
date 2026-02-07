@@ -1,0 +1,7 @@
+{
+  "name": "ColorExpert AI",
+  "description": "An advanced AI-powered color analysis tool that determines your personal color season and provides tailored style recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
